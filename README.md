@@ -1,2 +1,3 @@
-#ios storyBorad Game
+# ios storyBorad Game
 ios 가단한 액션 버튼 활용 게임
+skill-swift, ios
